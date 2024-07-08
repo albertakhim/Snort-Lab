@@ -57,3 +57,4 @@ Snort in Logger Mode using the -l, -r and -n command. I was able to capture the 
 ![snort logger 1](https://github.com/albertakhim/Snort-Lab/assets/174826500/f1d1fe27-4025-4893-9623-5633331494a3)
 
 
+Snort in IDS/IPS Mode using the -c, -T. -N, -D and -A with fast, cmg, console alerting mode
