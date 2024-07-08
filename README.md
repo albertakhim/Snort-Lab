@@ -49,3 +49,11 @@ snort-2.9.20
 Sniffer Mode. I was able to capture packet from my attack machine.. from the attack machine, i pinged 8.8.8.8 and used snort to capture the packet
 ![sniffer snort1](https://github.com/albertakhim/Snort-Lab/assets/174826500/c1b11488-eece-4e5b-9b77-8d1fe1e8f4f6)
 ![sniffer snort result](https://github.com/albertakhim/Snort-Lab/assets/174826500/fe4e6e1a-30ab-49d0-ad00-ee3aef16b03c)
+
+
+Snort in Logger Mode using the -l, -r and -n command. I was able to capture the previous  traffic and log the file in the output folder is /var/log/snort
+![snort logger 3](https://github.com/albertakhim/Snort-Lab/assets/174826500/aad998f5-bb95-43a7-bc80-3b3cd4b28859)
+![snort logger 2](https://github.com/albertakhim/Snort-Lab/assets/174826500/9b22ff8f-39c5-4a9a-ab80-650fa1ca7801)
+![snort logger 1](https://github.com/albertakhim/Snort-Lab/assets/174826500/f1d1fe27-4025-4893-9623-5633331494a3)
+
+
