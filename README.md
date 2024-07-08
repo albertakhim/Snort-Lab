@@ -42,7 +42,10 @@ cd ..
 ![snort9](https://github.com/albertakhim/Snort-Lab/assets/174826500/b41fb9c8-498d-4012-b7ba-9e9ca2834606)
 ![snort output](https://github.com/albertakhim/Snort-Lab/assets/174826500/8ef46c56-a748-4253-8603-0424d70994f3)
 
-### Tools Used
+### Tools
 snort-2.9.20
 
-
+### Use
+Sniffer Mode. I was able to capture packet from my attack machine.. from the attack machine, i pinged 8.8.8.8 and used snort to capture the packet
+![sniffer snort1](https://github.com/albertakhim/Snort-Lab/assets/174826500/c1b11488-eece-4e5b-9b77-8d1fe1e8f4f6)
+![sniffer snort result](https://github.com/albertakhim/Snort-Lab/assets/174826500/fe4e6e1a-30ab-49d0-ad00-ee3aef16b03c)
